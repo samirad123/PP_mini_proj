@@ -1,0 +1,9 @@
+Hey Dhruvi
+Booking has been confirmed, here are the details :
+Name : Dhruvi
+Restaurant : McDonald's, Mumbai
+Date : 10/11/21
+Timeslot : Lunch : 1:00 p.m. - 3:00 p.m.
+Number of People : 4
+Total Amount : 858.6 Rs.
+
